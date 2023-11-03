@@ -550,56 +550,6 @@ section{
 .footer .credit span{
     color: var(--maincolo);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*media queries */
 @media (max-width:991px)
 html{
