@@ -1,6 +1,7 @@
-# My-internship-project
+lo# My-internship-project
 //html parts 
 <html>
+
 
 <head>
     <meta charset="utf-8">
@@ -39,23 +40,23 @@
         <img src="C:\Users\sonali\Downloads\red.jpg"> alt="">
         <div class="content">
             <h3>cart-item 01</h3>
-            <div class="price">115</div>
+            <div class="price">rs.115</div>
         </div>
     </div>
     <div class="cart-item">
         <span class="fas fa-times"></span>
         <img src="C:\Users\sonali\Downloads\8.jpg"> alt="">
         <div class="content">
-            <h3>cart-item 01</h3>
-            <div class="price">115</div>
+            <h3>cart-item 02</h3>
+            <div class="price">rs.165</div>
         </div>
     </div>
     <div class="cart-item">
         <span class="fas fa-times"></span>
         <img src="C:\Users\sonali\Downloads\cooler.jpg"> alt="">
         <div class="content">
-            <h3>cart-item 01</h3>
-            <div class="price">115</div>
+            <h3>cart-item 03</h3>
+            <div class="price">rs.315</div>
         </div>
     </div>
     <a href="#" class="btn"> checkout now</a>
